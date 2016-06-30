@@ -3,13 +3,13 @@
  * Copyright © 2016 Manuel Gonzalez Villegas. All rights reserved.
  */
 
-var iconName = "ic_launcher.png"
+var iconName = "ic_launcher"
 var iconSizesMap = [
 	{"folder": "xxxhdpi",	"size": 192},
 	{"folder": "xxhdpi",	"size": 144},
-	{"folder": "xhdpi",		"size": 96},
-	{"folder": "hdpi",		"size": 72},
-	{"folder": "mdpi",		"size": 48}
+	{"folder": "xhdpi",	"size": 96},
+	{"folder": "hdpi",	"size": 72},
+	{"folder": "mdpi",	"size": 48}
 ];
 
 /**
